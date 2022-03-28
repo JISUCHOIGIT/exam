@@ -1,3 +1,7 @@
 public class Hello{
 안녕하세요
+java
+oracle
+spring
+javascript
 }
